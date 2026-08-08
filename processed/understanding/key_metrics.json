@@ -1,0 +1,110 @@
+{
+  "FY2023": {
+    "employee_count": [
+      {
+        "value": "employees,",
+        "source": "apple_ar_2023.pdf"
+      }
+    ],
+    "net_income": [
+      {
+        "value": "net income was $97.0 billion",
+        "source": "apple_ar_2023.pdf"
+      }
+    ],
+    "total_debt": [
+      {
+        "value": "debt\n100 b",
+        "source": "apple_ar_2023.pdf"
+      }
+    ],
+    "revenue": [
+      {
+        "value": "revenue of $12.1 billion",
+        "source": "apple_ar_2023.pdf"
+      }
+    ],
+    "eps": [
+      {
+        "value": "earnings per share\n$\n6.16",
+        "source": "apple_ar_2023.pdf"
+      },
+      {
+        "value": "Diluted earnings per share\n$\n6.13",
+        "source": "apple_ar_2023.pdf"
+      }
+    ]
+  },
+  "FY2024": {
+    "employee_count": [
+      {
+        "value": "employees,",
+        "source": "apple_ar_2024.pdf"
+      }
+    ],
+    "total_debt": [
+      {
+        "value": "debt\n100 b",
+        "source": "apple_ar_2024.pdf"
+      }
+    ],
+    "cash": [
+      {
+        "value": "cash and cash equivalents, b",
+        "source": "apple_ar_2024.pdf"
+      }
+    ],
+    "revenue": [
+      {
+        "value": "revenue of $12.8 billion",
+        "source": "apple_ar_2024.pdf"
+      }
+    ],
+    "eps": [
+      {
+        "value": "earnings per share\n$\n6.11",
+        "source": "apple_ar_2024.pdf"
+      },
+      {
+        "value": "Diluted earnings per share\n$\n6.08",
+        "source": "apple_ar_2024.pdf"
+      }
+    ]
+  },
+  "FY2025": {
+    "employee_count": [
+      {
+        "value": "employees,",
+        "source": "apple_ar_2025.pdf"
+      }
+    ],
+    "total_debt": [
+      {
+        "value": "debt\n100 b",
+        "source": "apple_ar_2025.pdf"
+      }
+    ],
+    "cash": [
+      {
+        "value": "cash and cash equivalents, b",
+        "source": "apple_ar_2025.pdf"
+      }
+    ],
+    "revenue": [
+      {
+        "value": "revenue of $13.7 billion",
+        "source": "apple_ar_2025.pdf"
+      }
+    ],
+    "eps": [
+      {
+        "value": "earnings per share\n$\n7.49",
+        "source": "apple_ar_2025.pdf"
+      },
+      {
+        "value": "Diluted earnings per share\n$\n7.46",
+        "source": "apple_ar_2025.pdf"
+      }
+    ]
+  }
+}

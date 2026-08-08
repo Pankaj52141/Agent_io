@@ -1,0 +1,286 @@
+{
+  "apple_ar_2023.pdf": {
+    "total_chunks": 132,
+    "data_categories": [
+      "assets_liabilities",
+      "cash_flow",
+      "compensation",
+      "debt_financing",
+      "earnings",
+      "executive_comp",
+      "expenses",
+      "general",
+      "legal",
+      "market_data",
+      "operations",
+      "r_and_d",
+      "revenue"
+    ],
+    "fiscal_years": [
+      "2023"
+    ],
+    "fiscal_quarters": [],
+    "document_type": "Annual Report (10-K)",
+    "summary": "Apple Inc. Annual Report (10-K) for FY 2023. Contains 132 data chunks covering: assets_liabilities, cash_flow, compensation, debt_financing, earnings, executive_comp, expenses, general, legal, market_data, operations, r_and_d, revenue.",
+    "sample_content": [
+      "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\nFORM 10-K\n(Mark One)\n\u2612 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ",
+      "Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.\nSee the definitio",
+      "Apple Inc.\nForm 10-K\nFor the Fiscal Year Ended September\u00a030, 2023\nTABLE OF CONTENTS\nPage\nPart I\nItem 1.\nBusiness\n1\nItem 1A.\nRisk Factors\n5\nItem 1B.\nUnresolved Staff Comments\n16\nItem 1C.\nCybersecurity\n"
+    ]
+  },
+  "apple_ar_2024.pdf": {
+    "total_chunks": 191,
+    "data_categories": [
+      "assets_liabilities",
+      "cash_flow",
+      "compensation",
+      "debt_financing",
+      "earnings",
+      "executive_comp",
+      "expenses",
+      "general",
+      "legal",
+      "market_data",
+      "operations",
+      "r_and_d",
+      "revenue"
+    ],
+    "fiscal_years": [
+      "2024"
+    ],
+    "fiscal_quarters": [],
+    "document_type": "Annual Report (10-K)",
+    "summary": "Apple Inc. Annual Report (10-K) for FY 2024. Contains 191 data chunks covering: assets_liabilities, cash_flow, compensation, debt_financing, earnings, executive_comp, expenses, general, legal, market_data, operations, r_and_d, revenue.",
+    "sample_content": [
+      "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\nFORM 10-K\n(Mark One)\n\u2612 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ",
+      "Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.\nSee the definitio",
+      "Apple Inc.\nForm 10-K\nFor the Fiscal Year Ended September\u00a028, 2024\nTABLE OF CONTENTS\nPage\nPart I\nItem 1.\nBusiness\n1\nItem 1A.\nRisk Factors\n5\nItem 1B.\nUnresolved Staff Comments\n17\nItem 1C.\nCybersecurity\n"
+    ]
+  },
+  "apple_ar_2025.pdf": {
+    "total_chunks": 136,
+    "data_categories": [
+      "assets_liabilities",
+      "cash_flow",
+      "debt_financing",
+      "earnings",
+      "executive_comp",
+      "expenses",
+      "general",
+      "legal",
+      "market_data",
+      "operations",
+      "r_and_d",
+      "revenue",
+      "segments"
+    ],
+    "fiscal_years": [
+      "2025"
+    ],
+    "fiscal_quarters": [],
+    "document_type": "Annual Report (10-K)",
+    "summary": "Apple Inc. Annual Report (10-K) for FY 2025. Contains 136 data chunks covering: assets_liabilities, cash_flow, debt_financing, earnings, executive_comp, expenses, general, legal, market_data, operations, r_and_d, revenue, segments.",
+    "sample_content": [
+      "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\nFORM 10-K\n(Mark One)\n\u2612 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ",
+      "Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.\nSee the definitio",
+      "Apple Inc.\nForm 10-K\nFor the Fiscal Year Ended September\u00a027, 2025\nTABLE OF CONTENTS\nPage\nPart I\nItem 1.\nBusiness\n1\nItem 1A.\nRisk Factors\n5\nItem 1B.\nUnresolved Staff Comments\n17\nItem 1C.\nCybersecurity\n"
+    ]
+  },
+  "apple_qf_2023_aug_4.xls": {
+    "total_chunks": 38,
+    "data_categories": [
+      "assets_liabilities",
+      "cash_flow",
+      "general",
+      "revenue"
+    ],
+    "fiscal_years": [
+      "2023"
+    ],
+    "fiscal_quarters": [
+      "Q3"
+    ],
+    "document_type": "Quarterly Financial Statement (Q3)",
+    "summary": "Apple Inc. Quarterly Financial Statement (Q3) for FY 2023. Contains 38 data chunks covering: assets_liabilities, cash_flow, general, revenue.",
+    "sample_content": [
+      "Created by EDGAR Online, Inc. | \n | \nAPPLE INC. | \nTable_Of_Contents | \nForm Type: 10-Q | \nPeriod End: Jul 01, 2023 | \nDate Filed: Aug 04, 2023 | \nTable Of Contents | \n | \n | Table Of Contents\n | -\n |",
+      "Created by EDGAR Online, Inc. |  |  | \n |  |  | \nAPPLE INC. |  |  | \nTABLE1 |  |  | \nForm Type: 10-Q |  |  | \nPeriod End: Jul 01, 2023 |  |  | \nDate Filed: Aug 04, 2023 |  |  | \nTable Of Contents |  |",
+      "Created by EDGAR Online, Inc. |  |  |  | \n |  |  |  | \nAPPLE INC. |  |  |  | \nTABLE2 |  |  |  | \nForm Type: 10-Q |  |  |  | \nPeriod End: Jul 01, 2023 |  |  |  | \nDate Filed: Aug 04, 2023 |  |  |  | \nT"
+    ]
+  },
+  "apple_qf_2023_feb_3.xls": {
+    "total_chunks": 35,
+    "data_categories": [
+      "assets_liabilities",
+      "cash_flow",
+      "general",
+      "revenue"
+    ],
+    "fiscal_years": [
+      "2023"
+    ],
+    "fiscal_quarters": [
+      "Q1"
+    ],
+    "document_type": "Quarterly Financial Statement (Q1)",
+    "summary": "Apple Inc. Quarterly Financial Statement (Q1) for FY 2023. Contains 35 data chunks covering: assets_liabilities, cash_flow, general, revenue.",
+    "sample_content": [
+      "Created by EDGAR Online, Inc. | \n | \nAPPLE INC. | \nTable_Of_Contents | \nForm Type: 10-Q | \nPeriod End: Dec 31, 2022 | \nDate Filed: Feb 03, 2023 | \nTable Of Contents | \n | \n | Table Of Contents\n | -\n |",
+      "Created by EDGAR Online, Inc. |  |  | \n |  |  | \nAPPLE INC. |  |  | \nTABLE1 |  |  | \nForm Type: 10-Q |  |  | \nPeriod End: Dec 31, 2022 |  |  | \nDate Filed: Feb 03, 2023 |  |  | \nTable Of Contents |  |",
+      "Created by EDGAR Online, Inc. |  |  |  | \n |  |  |  | \nAPPLE INC. |  |  |  | \nTABLE2 |  |  |  | \nForm Type: 10-Q |  |  |  | \nPeriod End: Dec 31, 2022 |  |  |  | \nDate Filed: Feb 03, 2023 |  |  |  | \nT"
+    ]
+  },
+  "apple_qf_2023_may_5.xls": {
+    "total_chunks": 38,
+    "data_categories": [
+      "assets_liabilities",
+      "cash_flow",
+      "general",
+      "revenue"
+    ],
+    "fiscal_years": [
+      "2023"
+    ],
+    "fiscal_quarters": [
+      "Q2"
+    ],
+    "document_type": "Quarterly Financial Statement (Q2)",
+    "summary": "Apple Inc. Quarterly Financial Statement (Q2) for FY 2023. Contains 38 data chunks covering: assets_liabilities, cash_flow, general, revenue.",
+    "sample_content": [
+      "Created by EDGAR Online, Inc. | \n | \nAPPLE INC. | \nTable_Of_Contents | \nForm Type: 10-Q | \nPeriod End: Apr 01, 2023 | \nDate Filed: May 05, 2023 | \nTable Of Contents | \n | \n | Table Of Contents\n | -\n |",
+      "Created by EDGAR Online, Inc. |  |  | \n |  |  | \nAPPLE INC. |  |  | \nTABLE1 |  |  | \nForm Type: 10-Q |  |  | \nPeriod End: Apr 01, 2023 |  |  | \nDate Filed: May 05, 2023 |  |  | \nTable Of Contents |  |",
+      "Created by EDGAR Online, Inc. |  |  |  | \n |  |  |  | \nAPPLE INC. |  |  |  | \nTABLE2 |  |  |  | \nForm Type: 10-Q |  |  |  | \nPeriod End: Apr 01, 2023 |  |  |  | \nDate Filed: May 05, 2023 |  |  |  | \nT"
+    ]
+  },
+  "apple_qf_2024_aug_2.xls": {
+    "total_chunks": 36,
+    "data_categories": [
+      "assets_liabilities",
+      "cash_flow",
+      "general",
+      "revenue"
+    ],
+    "fiscal_years": [
+      "2024"
+    ],
+    "fiscal_quarters": [
+      "Q3"
+    ],
+    "document_type": "Quarterly Financial Statement (Q3)",
+    "summary": "Apple Inc. Quarterly Financial Statement (Q3) for FY 2024. Contains 36 data chunks covering: assets_liabilities, cash_flow, general, revenue.",
+    "sample_content": [
+      "Created by EDGAR Online, Inc. | \n | \nAPPLE INC. | \nTable_Of_Contents | \nForm Type: 10-Q | \nPeriod End: Jun 29, 2024 | \nDate Filed: Aug 02, 2024 | \nTable Of Contents | \n | \n | Table Of Contents\n | -\n |",
+      "Created by EDGAR Online, Inc. |  |  | \n |  |  | \nAPPLE INC. |  |  | \nTABLE1 |  |  | \nForm Type: 10-Q |  |  | \nPeriod End: Jun 29, 2024 |  |  | \nDate Filed: Aug 02, 2024 |  |  | \nTable Of Contents |  |",
+      "Created by EDGAR Online, Inc. |  |  |  | \n |  |  |  | \nAPPLE INC. |  |  |  | \nTABLE2 |  |  |  | \nForm Type: 10-Q |  |  |  | \nPeriod End: Jun 29, 2024 |  |  |  | \nDate Filed: Aug 02, 2024 |  |  |  | \nT"
+    ]
+  },
+  "apple_qf_2024_feb_2.xls": {
+    "total_chunks": 33,
+    "data_categories": [
+      "assets_liabilities",
+      "cash_flow",
+      "general",
+      "revenue"
+    ],
+    "fiscal_years": [
+      "2024"
+    ],
+    "fiscal_quarters": [
+      "Q1"
+    ],
+    "document_type": "Quarterly Financial Statement (Q1)",
+    "summary": "Apple Inc. Quarterly Financial Statement (Q1) for FY 2024. Contains 33 data chunks covering: assets_liabilities, cash_flow, general, revenue.",
+    "sample_content": [
+      "Created by EDGAR Online, Inc. | \n | \nAPPLE INC. | \nTable_Of_Contents | \nForm Type: 10-Q | \nPeriod End: Dec 30, 2023 | \nDate Filed: Feb 02, 2024 | \nTable Of Contents | \n | \n | Table Of Contents\n | -\n |",
+      "Created by EDGAR Online, Inc. |  |  | \n |  |  | \nAPPLE INC. |  |  | \nTABLE1 |  |  | \nForm Type: 10-Q |  |  | \nPeriod End: Dec 30, 2023 |  |  | \nDate Filed: Feb 02, 2024 |  |  | \nTable Of Contents |  |",
+      "Created by EDGAR Online, Inc. |  |  |  | \n |  |  |  | \nAPPLE INC. |  |  |  | \nTABLE2 |  |  |  | \nForm Type: 10-Q |  |  |  | \nPeriod End: Dec 30, 2023 |  |  |  | \nDate Filed: Feb 02, 2024 |  |  |  | \nT"
+    ]
+  },
+  "apple_qf_2024_may_3.xls": {
+    "total_chunks": 35,
+    "data_categories": [
+      "assets_liabilities",
+      "cash_flow",
+      "general",
+      "revenue"
+    ],
+    "fiscal_years": [
+      "2024"
+    ],
+    "fiscal_quarters": [
+      "Q2"
+    ],
+    "document_type": "Quarterly Financial Statement (Q2)",
+    "summary": "Apple Inc. Quarterly Financial Statement (Q2) for FY 2024. Contains 35 data chunks covering: assets_liabilities, cash_flow, general, revenue.",
+    "sample_content": [
+      "Created by EDGAR Online, Inc. | \n | \nAPPLE INC. | \nTable_Of_Contents | \nForm Type: 10-Q | \nPeriod End: Mar 30, 2024 | \nDate Filed: May 03, 2024 | \nTable Of Contents | \n | \n | Table Of Contents\n | -\n |",
+      "Created by EDGAR Online, Inc. |  |  | \n |  |  | \nAPPLE INC. |  |  | \nTABLE1 |  |  | \nForm Type: 10-Q |  |  | \nPeriod End: Mar 30, 2024 |  |  | \nDate Filed: May 03, 2024 |  |  | \nTable Of Contents |  |",
+      "Created by EDGAR Online, Inc. |  |  |  | \n |  |  |  | \nAPPLE INC. |  |  |  | \nTABLE2 |  |  |  | \nForm Type: 10-Q |  |  |  | \nPeriod End: Mar 30, 2024 |  |  |  | \nDate Filed: May 03, 2024 |  |  |  | \nT"
+    ]
+  },
+  "apple_qf_2025_aug_1.xls": {
+    "total_chunks": 33,
+    "data_categories": [
+      "assets_liabilities",
+      "cash_flow",
+      "general",
+      "revenue"
+    ],
+    "fiscal_years": [
+      "2025"
+    ],
+    "fiscal_quarters": [
+      "Q3"
+    ],
+    "document_type": "Quarterly Financial Statement (Q3)",
+    "summary": "Apple Inc. Quarterly Financial Statement (Q3) for FY 2025. Contains 33 data chunks covering: assets_liabilities, cash_flow, general, revenue.",
+    "sample_content": [
+      "Created by EDGAR Online, Inc. | \n | \nAPPLE INC. | \nTable_Of_Contents | \nForm Type: 10-Q | \nPeriod End: Jun 28, 2025 | \nDate Filed: Aug 01, 2025 | \nTable Of Contents | \n | \n | Table Of Contents\n | -\n |",
+      "Created by EDGAR Online, Inc. |  |  | \n |  |  | \nAPPLE INC. |  |  | \nTABLE1 |  |  | \nForm Type: 10-Q |  |  | \nPeriod End: Jun 28, 2025 |  |  | \nDate Filed: Aug 01, 2025 |  |  | \nTable Of Contents |  |",
+      "Created by EDGAR Online, Inc. |  |  |  | \n |  |  |  | \nAPPLE INC. |  |  |  | \nTABLE2 |  |  |  | \nForm Type: 10-Q |  |  |  | \nPeriod End: Jun 28, 2025 |  |  |  | \nDate Filed: Aug 01, 2025 |  |  |  | \nT"
+    ]
+  },
+  "apple_qf_2025_jan_31.xls": {
+    "total_chunks": 29,
+    "data_categories": [
+      "cash_flow",
+      "general",
+      "revenue"
+    ],
+    "fiscal_years": [
+      "2025"
+    ],
+    "fiscal_quarters": [
+      "Unknown"
+    ],
+    "document_type": "Quarterly Financial Statement (Unknown)",
+    "summary": "Apple Inc. Quarterly Financial Statement (Unknown) for FY 2025. Contains 29 data chunks covering: cash_flow, general, revenue.",
+    "sample_content": [
+      "Created by EDGAR Online, Inc. | \n | \nAPPLE INC. | \nTable_Of_Contents | \nForm Type: 10-Q | \nPeriod End: Dec 28, 2024 | \nDate Filed: Jan 31, 2025 | \nTable Of Contents | \n | \n | Table Of Contents\n | -\n |",
+      "Created by EDGAR Online, Inc. |  |  | \n |  |  | \nAPPLE INC. |  |  | \nTABLE1 |  |  | \nForm Type: 10-Q |  |  | \nPeriod End: Dec 28, 2024 |  |  | \nDate Filed: Jan 31, 2025 |  |  | \nTable Of Contents |  |",
+      "Created by EDGAR Online, Inc. |  |  |  | \n |  |  |  | \nAPPLE INC. |  |  |  | \nTABLE2 |  |  |  | \nForm Type: 10-Q |  |  |  | \nPeriod End: Dec 28, 2024 |  |  |  | \nDate Filed: Jan 31, 2025 |  |  |  | \nT"
+    ]
+  },
+  "apple_qf_2025_may_2.xls": {
+    "total_chunks": 32,
+    "data_categories": [
+      "assets_liabilities",
+      "cash_flow",
+      "general",
+      "revenue"
+    ],
+    "fiscal_years": [
+      "2025"
+    ],
+    "fiscal_quarters": [
+      "Q2"
+    ],
+    "document_type": "Quarterly Financial Statement (Q2)",
+    "summary": "Apple Inc. Quarterly Financial Statement (Q2) for FY 2025. Contains 32 data chunks covering: assets_liabilities, cash_flow, general, revenue.",
+    "sample_content": [
+      "Created by EDGAR Online, Inc. | \n | \nAPPLE INC. | \nTable_Of_Contents | \nForm Type: 10-Q | \nPeriod End: Mar 29, 2025 | \nDate Filed: May 02, 2025 | \nTable Of Contents | \n | \n | Table Of Contents\n | -\n |",
+      "Created by EDGAR Online, Inc. |  |  | \n |  |  | \nAPPLE INC. |  |  | \nTABLE1 |  |  | \nForm Type: 10-Q |  |  | \nPeriod End: Mar 29, 2025 |  |  | \nDate Filed: May 02, 2025 |  |  | \nTable Of Contents |  |",
+      "Created by EDGAR Online, Inc. |  |  |  | \n |  |  |  | \nAPPLE INC. |  |  |  | \nTABLE2 |  |  |  | \nForm Type: 10-Q |  |  |  | \nPeriod End: Mar 29, 2025 |  |  |  | \nDate Filed: May 02, 2025 |  |  |  | \nT"
+    ]
+  }
+}

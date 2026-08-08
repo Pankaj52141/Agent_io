@@ -1,0 +1,42 @@
+[
+  {
+    "query_id": "f10416b8",
+    "query": "What was Apple's total revenue in FY2023?",
+    "answer": "Apple's total revenue in FY2023 was $383,285 million. This information is sourced from \"apple_ar_2023.pdf\" on page 38.",
+    "rating": true,
+    "correction": null,
+    "preferred_answer": null,
+    "role": "ceo",
+    "timestamp": 1786140474.928523
+  },
+  {
+    "query_id": "f10416b8",
+    "query": "What was Apple's total revenue in FY2023?",
+    "answer": "Apple's total revenue in FY2023 was $383,285 million. This information is sourced from \"apple_ar_2023.pdf\" on page 38.",
+    "rating": false,
+    "correction": "The actual revenue for FY2023 was $383.3 billion",
+    "preferred_answer": "Apple's total revenue for FY2023 was $383.3 billion",
+    "role": "ceo",
+    "timestamp": 1786140476.9963274
+  },
+  {
+    "query_id": "2989b1f5",
+    "query": "how much data do i have access to as a role of ceo",
+    "answer": "As the CEO, you have full access to all data categories related to Apple Inc.'s financial and operational information. These include assets and liabilities, cash flow, compensation, debt financing, earnings, executive compensation, expenses, general information, headcount, legal matters, market data, operations, product roadmap, research and development, revenue, risk factors, segments, shareholder equity, strategy, and tax. There are no restricted categories for your role.",
+    "rating": false,
+    "correction": null,
+    "preferred_answer": null,
+    "role": "ceo",
+    "timestamp": 1786167002.5505779
+  },
+  {
+    "query_id": "2989b1f5",
+    "query": "how much data do i have access to as a role of ceo",
+    "answer": "As the CEO, you have full access to all data categories related to Apple Inc.'s financial and operational information. These include assets and liabilities, cash flow, compensation, debt financing, earnings, executive compensation, expenses, general information, headcount, legal matters, market data, operations, product roadmap, research and development, revenue, risk factors, segments, shareholder equity, strategy, and tax. There are no restricted categories for your role.",
+    "rating": false,
+    "correction": "give me next time i ask this questiion then answer in bullet points",
+    "preferred_answer": "give me next time i ask this questiion then answer in bullet points",
+    "role": "ceo",
+    "timestamp": 1786167041.4285865
+  }
+]

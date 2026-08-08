@@ -27,5 +27,4 @@ htmlcov/
 Thumbs.db
 
 # Generated artifacts
-processed/
 *.log
