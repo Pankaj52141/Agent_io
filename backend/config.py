@@ -4,6 +4,10 @@ Central place for all settings, paths, and constants.
 """
 import os
 from pathlib import Path
+from dotenv import load_dotenv
+
+# Load .env file from project root
+load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
 # ─── Paths ───────────────────────────────────────────────
 BASE_DIR = Path(__file__).resolve().parent.parent  # Agentio/

@@ -12,7 +12,7 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse, JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 
-from backend.config import USERS, ROLE_RESTRICTIONS, FEEDBACK_DIR
+from backend.config import USERS, ROLE_RESTRICTIONS, FEEDBACK_DIR, OPENAI_API_KEY
 from backend.rbac.models import (
     LoginRequest, LoginResponse, QueryRequest, QueryResponse,
     FeedbackRequest,
@@ -36,6 +36,7 @@ async def lifespan(app: FastAPI):
     """Initialize the agent on startup."""
     global agent
     print("[Server] Initializing Agent Orchestrator...")
+    print(f"[Server] OPENAI_API_KEY loaded: {'Yes' if OPENAI_API_KEY else 'NO — .env not loaded!'}")
     agent = AgentOrchestrator()
     print("[Server] Agent ready!")
     yield
