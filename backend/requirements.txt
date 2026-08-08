@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn==0.30.0
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.9
+openai==1.51.0
+pymupdf==1.24.0
+pdfplumber==0.11.0
+xlrd==2.0.1
+openpyxl==3.1.2
+faiss-cpu==1.15.0
+numpy==1.26.4
+tiktoken==0.7.0
+pydantic==2.9.0
+gunicorn==21.2.0
