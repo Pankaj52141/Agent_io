@@ -19,24 +19,17 @@ for d in [CHUNKS_DIR, UNDERSTANDING_DIR, EMBEDDINGS_DIR, FEEDBACK_DIR]:
     d.mkdir(parents=True, exist_ok=True)
 
 # ─── OpenAI ──────────────────────────────────────────────
-<<<<<<< HEAD
 # Required: set in environment or via a .env file when running locally
-=======
->>>>>>> origin/main
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 EMBEDDING_MODEL = "text-embedding-3-small"
 CHAT_MODEL = "gpt-4o"
 EMBEDDING_DIM = 1536
 
 # ─── Auth / JWT ──────────────────────────────────────────
-<<<<<<< HEAD
 # For production, set `JWT_SECRET` in the environment. A default placeholder
 # is kept to avoid hard crashes during local development, but you should
 # provide a strong secret when deploying to Render.
 JWT_SECRET = os.environ.get("JWT_SECRET", "your-jwt-secret-key-here")
-=======
-JWT_SECRET = "fin-agent-secret-key-change-in-prod-2024"
->>>>>>> origin/main
 JWT_ALGORITHM = "HS256"
 JWT_EXPIRY_HOURS = 8
 
