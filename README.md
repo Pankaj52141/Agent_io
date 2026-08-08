@@ -21,6 +21,18 @@ python -m backend.main
 **Open your index.html file  by double clicking on the file**
 http://localhost:8000 in your browser.
 
+<<<<<<< HEAD
+=======
+### 5. Login
+Use any of the demo accounts:
+
+|   Role  | Email         | Password | Access Level |
+|------   |-------        |----------|-------------|
+| **CEO** | ceo@apple.com | ceo123 | Full access to all data |
+| **CTO** | cto@apple.com | cto123 | No headcount/compensation data |
+| **CFO** | cfo@apple.com | cfo123 | No strategy/R&D/legal data |
+
+>>>>>>> origin/main
 ---
 ---
 
